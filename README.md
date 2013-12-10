@@ -42,6 +42,7 @@ if (!isset($_GET['code'])) {
 ## License
 
 Based on OAuth 2.0 Client Library by Alex Bilbie
+
 Adapted by Nick Russler
 
 The MIT License (MIT). Please see [License File](https://github.com/php-loep/:package_name/blob/master/LICENSE) for more information.
