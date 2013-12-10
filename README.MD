@@ -1,6 +1,6 @@
-# Simple OAuth 2.0 Client Library (using curl)
+# Simple OAuth 2.0 Client Library
 
-Simple PHP Library to do the OAuth2 authetification process.
+Simple PHP Library to do the OAuth2 authetification process using curl.
 
 ## Usage
 
